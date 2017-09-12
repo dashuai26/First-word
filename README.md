@@ -1,2 +1,3 @@
-# First-word
+# 使用gitGut
+1、创建主支
 分支的提交
